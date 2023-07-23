@@ -49,5 +49,5 @@
 
 ---
 <p align="center">
-  <i>Todos os direitos resevados TableRise - 2023</i>
+  <i>Todos os direitos reservados TableRise - 2023</i>
 </p>
