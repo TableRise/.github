@@ -1,7 +1,9 @@
 <h1 align="center">TableRise</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/placeholder-lightgray" alt="thumbnail"/>
+  
+  ![putple-forest](https://github.com/TableRise/.github/assets/87550173/387aca69-151e-4c18-868e-b9f5e77e1f1d)
+  
 </p>
 
 <p align="center">
