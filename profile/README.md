@@ -48,11 +48,18 @@
 | Matheus Silva              | Designer UI/UX                     | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusilvaDSN) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-l-silva/)        |
 | Jorge Felipe Campos Chagas | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junglejf) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-felipe-campos-chagas-352198118) |
 | Cesar Holanda              | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RasecMH) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarholanda)                          |
-| Guilherme Hallmann         | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guihallmann) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guihallmann)                       |
 | Helder Daniel Silva Araújo | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helderdsa) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helderdsa-dev/)                       |
 | Rafael da Cunha Santos     | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelCunhaS) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcunhas/)                       |
 | Paulo Ruan                 | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauloruan) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloruan)                       |
 | Ash Trindade               | Moderador & Desenvolvedor          | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashtrindade)                                                                                                                                                                                  |
+### Membros honorários
+Nenhum castelo se constrói sozinho, e com o reino do TableRise não seria diferente, tivemos apoio de varios viajantes que não permaneceram ou não são oficialmente da guilda mas foram essênciais para conquistarmos diversas vitórias.  
+Dentre esses estão (os links direcionam para o linkedin de cada um):  
+  
+[Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  
+[Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  
+[Sophia Carvalho](https://www.linkedin.com/in/sophia-carvalho-simao/)  
+[Icaro Vieira](https://www.linkedin.com/in/icaro-vieira-8103a4207/)  
 
 ---
 <p align="center">
