@@ -51,7 +51,7 @@
 | Rafael da Cunha Santos     | Desenvolvedor                      | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelCunhaS) [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelcunhas/)                       |
 | Ash Trindade               | Moderador & Desenvolvedor          | [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashtrindade)                                                                                                                                                                                  |
 ### Membros honorários
-Nenhum castelo se constrói sozinho, e com o reino do TableRise não seria diferente, tivemos apoio de varios viajantes que não permaneceram ou não são oficialmente da guilda mas foram essênciais para conquistarmos diversas vitórias.  
+Nenhum castelo se constrói sozinho, e com o reino do TableRise não seria diferente, tivemos apoio de varios viajantes que não permaneceram ou não são oficialmente da guilda mas foram importantes para conquistarmos algumas vitórias.  
 Dentre esses estão (os links direcionam para o linkedin de cada um):  
   
 [Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  
