@@ -57,7 +57,6 @@ Dentre esses estão (os links direcionam para o linkedin de cada um):
   
 [Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  
 [Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  
-[Sophia Carvalho](https://www.linkedin.com/in/sophia-carvalho-simao/)  
 [Icaro Vieira](https://www.linkedin.com/in/icaro-vieira-8103a4207/)  
 
 ---
