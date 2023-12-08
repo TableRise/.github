@@ -56,7 +56,6 @@ Nenhum castelo se constrói sozinho, e com o reino do TableRise não seria difer
 Dentre esses estão (os links direcionam para o linkedin de cada um):  
   
 [Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  
-[Sophia Carvalho](https://www.linkedin.com/in/sophia-carvalho-simao/)  
 [Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  
 [Icaro Vieira](https://www.linkedin.com/in/icaro-vieira-8103a4207/)  
 
