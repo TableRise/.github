@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  TableRise foi idealizado pensando em jogadores apaixonados por RPG, que desejam uma partida dinâmica e divertida,
+  TableRise é um projeto criado com a finalidade de ajudar profissionais juniors que ainda não tiveram sua primeira
+  oportunidade a adquirir experiência com um projeto que têm processos e metódos condizentes com o mercado de trabalho
+  e foi idealizado pensando em jogadores apaixonados por RPG, que desejam uma partida dinâmica e divertida,
   esse é o objetivo principal do projeto, fornecer ferramentas úteis e fáceis de usar para uma campanha de
   RPG, já existem outros projetos neste sentido, porem o TableRise é pensado para ser uma plataforma
   super intuitiva e muito aconchegante para campanhas simples ou até mais elaboradas e mais complexas, se seu
