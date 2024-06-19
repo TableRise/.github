@@ -60,8 +60,8 @@
 Nenhum castelo se constrói sozinho, e com o reino do TableRise não seria diferente, tivemos apoio de varios viajantes que não permaneceram ou não são oficialmente da guilda mas foram importantes para conquistarmos algumas vitórias.  
 Dentre esses estão (os links direcionam para o linkedin de cada um):  
 
-[Rafael da Cunha](https://www.linkedin.com/in/rafaelcunhas/) ◀ Nos apoiou como desenvolvedor durante **1 ano e meio**, valeu demais Rafael! 😄👍
-[Layssa Hillary](https://www.linkedin.com/in/layssa-hillary-091388205) ◀ Nos apoiou como designer UI/UX durante **1 ano**, valeu demais Layssa! 😄👍
+[Rafael da Cunha](https://www.linkedin.com/in/rafaelcunhas/) ◀ Nos apoiou como desenvolvedor durante **1 ano e meio**, valeu demais Rafael! 😄👍  
+[Layssa Hillary](https://www.linkedin.com/in/layssa-hillary-091388205) ◀ Nos apoiou como designer UI/UX durante **1 ano**, valeu demais Layssa! 😄👍  
 [Felipe Murata](https://www.linkedin.com/in/felipe-murata/)  ◀  Nos apoiou como **lider de UI/UX** durante **1 ano**, valeu demais Murata! 😄👍  
 [Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  ◀  Foi um grande apoio no inicio do projeto como desenvolvedor, valeu demais Guilherme! 😄👍  
 [Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  ◀  Foi um grande apoio no inicio do projeto como consultor, valeu demais Cairo! 😄👍  
