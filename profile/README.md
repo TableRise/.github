@@ -63,6 +63,7 @@ Dentre esses estão (os links direcionam para o linkedin de cada um):
 [Rafael da Cunha](https://www.linkedin.com/in/rafaelcunhas/) ◀ Nos apoiou como desenvolvedor durante **1 ano e meio**, valeu demais Rafael! 😄👍  
 [Layssa Hillary](https://www.linkedin.com/in/layssa-hillary-091388205) ◀ Nos apoiou como designer UI/UX durante **1 ano**, valeu demais Layssa! 😄👍  
 [Felipe Murata](https://www.linkedin.com/in/felipe-murata/)  ◀  Nos apoiou como **lider de UI/UX** durante **1 ano**, valeu demais Murata! 😄👍  
+  
 [Guilherme Hallmann](https://www.linkedin.com/in/guihallmann/)  ◀  Foi um grande apoio no inicio do projeto como desenvolvedor, valeu demais Guilherme! 😄👍  
 [Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  ◀  Foi um grande apoio no inicio do projeto como consultor, valeu demais Cairo! 😄👍  
 [Icaro Vieira](https://www.linkedin.com/in/icaro-vieira-8103a4207/)  ◀  Foi um grande apoio no inicio do projeto como designer, valeu demais Icaro! 😄👍  
