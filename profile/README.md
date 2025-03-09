@@ -67,6 +67,10 @@ Dentre esses estão (os links direcionam para o linkedin de cada um):
 [Cairo Noleto](https://www.linkedin.com/in/caironoleto/)  ◀  Foi um grande apoio no inicio do projeto como consultor, valeu demais Cairo! 😄👍  
 [Icaro Vieira](https://www.linkedin.com/in/icaro-vieira-8103a4207/)  ◀  Foi um grande apoio no inicio do projeto como designer, valeu demais Icaro! 😄👍  
 
+### 👨‍💻 Contribuições 👩🏼‍💻
+Para contribuir com o projeto basta seguir a documentação indicada no nosso guia de contribuição.  
+https://docs.tablerise.com
+
 ---
 <p align="center">
   <i>Todos os direitos reservados TableRise - 2023</i>
