@@ -19,7 +19,7 @@
 <p align="center">
   Nossos magos da tecnologia estão sempre buscando as melhores spells para seu conforto e segurança, se liga nessas que tiramos do nosso grimório ao construir essa plataforma para você.
 </p>
-![Next JS](https://img.shields.io/badge/Next-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js"/>
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/>
